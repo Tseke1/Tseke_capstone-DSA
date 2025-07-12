@@ -16,14 +16,10 @@ Order Data (CSV File) which contains transactional records from 2009-2012, inclu
 Order Status Data (CSV File)	
 This file contains data which includes returned order IDs and status information.
 ### Tools Used
--	MS Excel  [Download Here]
+-	MS Excel 
 - For data cleaning
-- 	For data collection
-- 		SQL server
-  ``` SQL
-  SELECT A,B,C
-  WHERE A>15
-  ```
+- For data collection
+- SQL server
 -	For querying
 -	For conducting analysis
 ### Data Preparation
