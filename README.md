@@ -20,7 +20,24 @@ This file contains data which includes returned order IDs and status information
 - For data cleaning
 - 	For data collection
 - 		SQL server
+  ``` SQL
+  SELECT A,B,C
+  WHERE A>15
+  ```
 -	For querying
 -	For conducting analysis
+### Data Preparation
+The file gotten from excel which contained the data from 2009-2012 required little to no cleaning. I started by creating a database on SQL for the project then continued with the following prompt
+- Importation of data from ms excel into SQL
+-	Create Table in SQL
+-	Validate date
+-	Execute as needed
+  # Case Scenario 1
+## product with the highest category
+
+#### Insight: Technology had the highest total sales of –between 2009-2012
+#### Interpretation: Technology contributes largely to the revenue and may indicate higher demand and pricing in that category
+
+
 
 
