@@ -104,7 +104,7 @@ Profitable consumers can venture into from home based businesses
 Consumers return of items more frequently may be due to unmet expectations or unclear product details.
 #### Recommendation
  Improve on the product description, images and make adjustment on return policies
-
+## Appropriateness of shipping cost 
 
 
 
