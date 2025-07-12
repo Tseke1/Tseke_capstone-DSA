@@ -107,4 +107,10 @@ Consumers return of items more frequently may be due to unmet expectations or un
 ## Appropriateness of shipping cost 
 
 
+#### Insight
+The order priority for delivery truck is considerably critical even though it is seen clealy in the analysis that regular air has the highest total orders. 
+#### Interpretation
+There are misalignment between urgency and shipping method. while regular air has the highest total orders, the days average shipping days are misaligned. Hence, the increases overheads without matching the business need.
+#### Recommendation
+Enforce order-priority on shipping rules to management system while encouraging low order-priority customers to opt for economical shipping mode with incentives like discounts. For high order-priority among small and large business customers, use appropriate shipping method to order priority more strictly
 
