@@ -1,0 +1,15 @@
+﻿Express Air,Low,4
+Regular Air,Low,4
+Delivery Truck,Low,3
+Delivery Truck,Critical,1
+Delivery Truck,High,1
+Delivery Truck,Medium,1
+Delivery Truck,Not Specified,1
+Express Air,Critical,1
+Express Air,High,1
+Express Air,Medium,1
+Express Air,Not Specified,1
+Regular Air,Critical,1
+Regular Air,High,1
+Regular Air,Medium,1
+Regular Air,Not Specified,1
